@@ -10,5 +10,4 @@ focus-bot sends scheduled SMS check-ins (Tuesday–Friday, 8am/12pm/2pm/5pm) to 
 track tasks and keep momentum through the day. It's built with Python, Twilio for 
 SMS, and an LLM for conversational reasoning about task status.
 
-**Note:** By using focus-bot, users consent to receive SMS messages related to 
-task reminders and check-ins.
+**Note:** By opting in and using focus-bot, users consent to receive SMS messages related to task reminders and check-in notifications. Message frequency varies. Reply STOP to opt out at any time.
