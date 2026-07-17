@@ -1,5 +1,7 @@
 # focus-bot
 
+*By Connor Garcia*
+
 CEOs have executive assistants to keep them sharp and on track, focus-bot is mine. 
 A personal SMS-based assistant that sends scheduled check-ins throughout the day, 
 helping me stay on top of tasks I'd otherwise lose in the shuffle.
@@ -11,3 +13,7 @@ track tasks and keep momentum through the day. It's built with Python, Twilio fo
 SMS, and an LLM for conversational reasoning about task status.
 
 **Note:** By opting in and using focus-bot, users consent to receive SMS messages related to task reminders and check-in notifications. Message frequency varies. Reply STOP to opt out at any time.
+
+---
+
+© 2026 Connor Garcia
